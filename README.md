@@ -1,6 +1,26 @@
 <h1>Prototype of Federated Learning with Multi-Key Homomorphic Encryption</h1>
 <p>This repository contains an implementation that integrates the <a href="https://arxiv.org/abs/2104.06824">xMK-CKKS</a> homomorphic encryption scheme into a federated learning architecture to provide a demonstration of how to incorporate Multi-Key Homomorphic Encryption (MKHE) into a federated learning system.</p>
 
+**Cite The Research**  
+If you find those results useful please cite the research :
+
+```
+  @Article{cryptography7040048,
+    AUTHOR = {Walskaar, Ivar and Tran, Minh Christian and Catak, Ferhat Ozgur},
+    TITLE = {A Practical Implementation of Medical Privacy-Preserving Federated Learning Using Multi-Key Homomorphic Encryption and Flower Framework},
+    JOURNAL = {Cryptography},
+    VOLUME = {7},
+    YEAR = {2023},
+    NUMBER = {4},
+    ARTICLE-NUMBER = {48},
+    ISSN = {2410-387X},
+    DOI = {10.3390/cryptography7040048}
+  }
+```
+
+
+
+
 <h2>Dependencies</h2>
 <p>This project is built upon two external repositories:</p>
 <ul>
